@@ -1,9 +1,12 @@
-// Photos live in public/images so they are served as-is at /images/*.
-const gainage = '/images/gainage.jpeg'
-const capsulesNailArt = '/images/capsules-nailart.jpeg'
-const nailArtArtisanal = '/images/nailart-artisanal.jpeg'
-const capsulesDelicat = '/images/capsules-delicat.jpeg'
-const reconstruction = '/images/reconstruction.jpeg'
+// Photos live in public/images. BASE_URL keeps the paths correct when the
+// site is hosted under a sub-path (GitHub Pages).
+const BASE = import.meta.env.BASE_URL
+export const LOGO = `${BASE}logo.jpeg`
+const gainage = `${BASE}images/gainage.jpeg`
+const capsulesNailArt = `${BASE}images/capsules-nailart.jpeg`
+const nailArtArtisanal = `${BASE}images/nailart-artisanal.jpeg`
+const capsulesDelicat = `${BASE}images/capsules-delicat.jpeg`
+const reconstruction = `${BASE}images/reconstruction.jpeg`
 
 export const CONTACT = {
   whatsapp: '+216 29 166 720',

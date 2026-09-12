@@ -1,4 +1,4 @@
-import { CONTACT } from '../data/content.js'
+import { CONTACT, LOGO } from '../data/content.js'
 import { WhatsAppIcon, PhoneIcon } from './Icons.jsx'
 
 export default function Hero() {
@@ -12,7 +12,7 @@ export default function Hero() {
 
       <div className="container hero__inner">
         <div className="hero__logo-wrap">
-          <img src="/logo.jpeg" alt="The Lei Studio — Nail Salon" className="hero__logo" />
+          <img src={LOGO} alt="The Lei Studio — Nail Salon" className="hero__logo" />
         </div>
 
         <p className="hero__eyebrow">Nail salon · Tunis</p>

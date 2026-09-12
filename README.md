@@ -21,3 +21,11 @@ npm run preview # preview the production build
 ## Fonts
 
 Loaded from Google Fonts: Pinyon Script (logo-style script), Cormorant Garamond (headings), Montserrat (body and labels).
+
+## Deployment (GitHub Pages)
+
+The site is published at <https://saifatom.github.io/the-lei-studio/>.
+
+- `vite.config.js` sets `base: '/the-lei-studio/'` so asset URLs include the repository name. Change it if the repository is renamed or a custom domain is used (`base: '/'`).
+- `.github/workflows/deploy.yml` builds the site and deploys `dist/` on every push to `main`.
+- In the repository settings, under **Pages**, set **Source** to **GitHub Actions** (not "Deploy from a branch").
