@@ -31,8 +31,11 @@ export default function Prices() {
           {PRICES.map((cat, i) => (
             <button
               key={cat.category}
+              type="button"
               role="tab"
+              id={`tab-${i}`}
               aria-selected={i === active}
+              aria-controls="tarifs-panel"
               className={`prices__tab ${i === active ? 'is-active' : ''}`}
               onClick={() => setActive(i)}
             >
@@ -41,7 +44,13 @@ export default function Prices() {
           ))}
         </div>
 
-        <div className="prices__panel" key={current.category} data-reveal>
+        <div
+          className="prices__panel"
+          key={current.category}
+          id="tarifs-panel"
+          role="tabpanel"
+          aria-labelledby={`tab-${active}`}
+        >
           <ul className="price-list">
             {current.items.map((item) => (
               <li key={item.name} className="price">
