@@ -1,8 +1,9 @@
-import gainage from '../assets/gainage.jpeg'
-import capsulesNailArt from '../assets/capsules-nailart.jpeg'
-import nailArtArtisanal from '../assets/nailart-artisanal.jpeg'
-import capsulesDelicat from '../assets/capsules-delicat.jpeg'
-import reconstruction from '../assets/reconstruction.jpeg'
+// Photos live in public/images so they are served as-is at /images/*.
+const gainage = '/images/gainage.jpeg'
+const capsulesNailArt = '/images/capsules-nailart.jpeg'
+const nailArtArtisanal = '/images/nailart-artisanal.jpeg'
+const capsulesDelicat = '/images/capsules-delicat.jpeg'
+const reconstruction = '/images/reconstruction.jpeg'
 
 export const CONTACT = {
   whatsapp: '+216 29 166 720',

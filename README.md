@@ -15,7 +15,7 @@ npm run preview # preview the production build
 
 - `src/data/content.js` — all texts, prices, contact numbers and the map embed URL. Edit here to update content.
 - `src/components/` — page sections (Hero, About, Services, Prices, Infos, Contact, Footer, floating WhatsApp/phone buttons).
-- `src/assets/` — logo and gallery photos.
+- `public/logo.jpeg`, `public/images/` — logo and gallery photos, served as static files.
 - `src/index.css` — design tokens (colors taken from the logo), layout, and animations.
 
 ## Fonts
