@@ -1,0 +1,103 @@
+There is the logo of The Lei Studio in logo.jpeg
+it's a nail salon
+
+i want you to create a website using react js
+i want a good styling and some animations
+
+i want you to follow the color palette of that logo
+even the font 
+
+i will also give you a small text as presentation of the the salon
+
+L’expertise française, désormais à Tunis.
+
+Formée et certifiée en France dans les techniques les plus exigeantes de la beauté des ongles, je vous accueille dans un univers dédié à la précision, au détail et à l’élégance.
+
+Spécialisée dans le travail exclusivement au gel, je maîtrise notamment la manucure russe, la pédicure russe, le gainage et le Full Nail Art, ainsi que les techniques de pédicure médicale.
+
+Chaque prestation est réalisée avec une exigence particulière afin d’allier précision, esthétique et respect de l’ongle naturel.
+
+Nous travaillons exclusivement avec des produits professionnels français, sélectionnés pour leur qualité, et plaçons l’hygiène au cœur de chaque prestation. Chaque instrument est soigneusement nettoyé, désinfecté et stérilisé entre chaque rendez-vous.
+
+Une expertise française.
+Une signature unique.
+
+i want two buttons one for WhatsApp messages and one phone Calling 
++216 29166720  is the one for WhatsApp
++216 27454112 is for Calling 
+
+also i want to add a section of map for our studio
+here the link of the studio in google maps
+https://maps.app.goo.gl/X6YWVvPwbLVGaFSW6
+
+also i want a section 
+i will give you also some images 
+and with each image add this sections 
+
+Gainage sur ongle naturel & Manucure russe
+Un travail de précision jusque dans les moindres détails : cuticules parfaitement travaillées, élimination des peaux mortes et gainage de l’ongle naturel pour un résultat propre, net et élégant.
+
+Capsules & Nail Art
+Des extensions travaillées avec précision pour créer des looks personnalisés, sublimés par un Nail Art minutieux et créatif.
+
+Capsules & Nail Art artisanal
+Ici, chaque détail est réalisé à la main. Des créations entièrement personnalisées où la finesse du dessin et le travail des volumes donnent vie à des poses uniques
+
+Capsules gel & Nail Art délicat
+Une extension au gel pour apporter longueur et structure, accompagnée d’une touche de Nail Art subtile. L’équilibre parfait entre sophistication et simplicité.
+
+Reconstruction de l’ongle & Manucure russe
+Redonner forme et harmonie à l’ongle grâce à un travail de reconstruction précis, associé à une manucure russe soignée pour une finition nette et parfaitement structurée.
+
+
+and now i will give you the section of prices 
+
+Côter mains 
+
+Capsule gel 70 dinars 
+Remplissage 45 dinars 
+Chablon 85 dinars
+Gainage ongle naturel 50 dinars 
+Remplissage capsule gel 45 dinars 
+Vernis permanent 35d 
+Manucure russe 15d
+French 10 dinsr 
+Ongle cassée 5 dinar 
+Dépose 10 dinar 
+ Soins des mains 30 dinar 
+(Gommage manucure russe hydratation intense ) 
+(Produits indigo victoria vynn ) 
+
+Nail art sur devis 
+French 10 dinar 
+Baby boomer / baby color 15d
+Effet 3D effet chrome design main 
+Strass / bijoux sur devis 
+
+Pédicure  
+Vernis permanent 25d 
+Soins des pieds 35d 
+(Gommage , travail peau morte , hydratation intense ) 
+(Produits indigo victoria vynn) 
+
+Soins médicale 55d 
+(Gommage manucure russe travail des cors et peau morte , hydrations intense ) 
+( indigo victoria vynn) 
+Rallongement 5d 
+Reconstruction acrygel
+
+i Don't know manage and get them in a good UI
+
+and also i want this warning to appear also in a good form just as attention
+
+Informations importantes : 
+
+Nous travaillons exclusivement des produits européens 
+La prise de rdv s’effectue via whatsapp ou numéro de téléphone 
+Nous n’acceptons pas les retards de plus de 30 minutes nous annulons le rdv 
+ L’annulation d’un rdv sans justifier vous fera être sur notre liste de blacklister
+Les accompagnateurs sont acceptés mais pas d’enfants
+
+
+
+
